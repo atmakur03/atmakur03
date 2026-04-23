@@ -1,4 +1,4 @@
-<h1 align="center">Vani Atmakur</h1>
+<h1 align="center">Hi, I'm Vani 👋</h1>
 
 <p align="center">
   <b>Data Engineer</b> &nbsp;|&nbsp; AWS &nbsp;&bull;&nbsp; GCP &nbsp;&bull;&nbsp; Azure &nbsp;|&nbsp; 5 Years Experience
