@@ -53,11 +53,3 @@ Data Engineer @ **Capital One** building production ETL pipelines on AWS, GCP & 
 | ML Data Pipeline | Python, Spark, AWS/GCP | [View](https://github.com/atmakur03/ml-pipeline) |
 | Reddit Sentiment Analytics | Kafka, Airflow, PostgreSQL, Docker | [View](https://github.com/atmakur03/reddit-sentiment) |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atmakur03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmakur03&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-</p>
