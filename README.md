@@ -81,8 +81,7 @@ Data Engineer with **5+ years** building scalable ETL/ELT pipelines, dimensional
 |---|---|---|
 | End-to-End ML Pipeline | Python · Spark · Redshift · Docker · CI/CD | [View](https://github.com/atmakur03/ml-pipeline) |
 | Weather ETL Pipeline | Python · Pandas · SQLite · APScheduler | [View](https://github.com/atmakur03/weather-etl-pipeline) |
-| Reddit Sentiment Analytics | Kafka · Airflow · PostgreSQL · Docker | [View](https://github.com/atmakur03/reddit-sentiment) |
-
+ 
 ---
 
 ### Education
