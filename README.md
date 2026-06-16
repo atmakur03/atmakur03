@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/atmakur03"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/v2149/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Phone-9133460943-25D366?style=flat-square&logo=phone&logoColor=white"/>
+<a href="https://github.com/atmakur03"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=atmakur03&style=flat-square&color=blueviolet"/>
 </p>
 
