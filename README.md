@@ -49,5 +49,5 @@ Full Stack Software Engineer with **5+ years** of experience building products e
 
 ## 📫 Contact
 
-[atvani01@gmail.com](mailto:atvani01@gmail.com) | 917-437-6669
+[vaniwork99@gmail.com](mailto:vaniwork99@gmail.com) | 917-437-6669
 
