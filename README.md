@@ -43,6 +43,12 @@ Full Stack Software Engineer with **5+ years** of experience building products e
 - Developed backend APIs over SQL and NoSQL databases with new data models
 - Contributed to a 26% drop in escaped defects through unit testing and code reviews
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [svelte-fastapi-task-manager](https://github.com/atmakur03/svelte-fastapi-task-manager) | Full-stack task management app with async REST APIs and JWT auth | SvelteKit, FastAPI, MongoDB |
+
 ## 🎓 Education
 
 **University of Central Missouri** — Master of Science in Technology
